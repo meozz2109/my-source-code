@@ -1,0 +1,25 @@
+def fruit(reels, spins):
+    reel1=reel2=reel3=[]
+    reels[3]=[reel1,reel2,reel3]
+    reel=[]
+    reelss=["Jack","Queen", "King", "Bar", "Cherry", "Seven", "Shell", "Bell", "Star", "Wild"]
+    spin=[]
+    for i in range(0,10):
+        for j in range(0,3):
+            if spin[j]==i:
+                reel.append((reels[j])[i])
+    for k in range(0,3):
+        for l in range(0,10):
+            if reel.count(reel[k]) == 1:
+                return 0
+            elif reel.count(reel[k]) == 2:
+                if reel[k]==reelss[l]:
+                    return l+1
+            elif reel.count(reel[k]) ==3:
+                if reel[k]==reelss[l]:
+                    return 10*l
+            elif reel[k] == reelss[9] and reel.count(reel[k])==1:
+                for m in range(0,3):
+                    if reel.count(reel[m])==2:
+                        if reel[m]==reelss[l]:
+                            return l*2
