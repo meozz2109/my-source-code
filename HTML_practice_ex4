@@ -7,9 +7,11 @@
 		table, th, td {
 			border: 1px solid violet;
 			border-collapse: collapse;
-			padding: 1px;
+			padding: 0px;
 			font-family: courier;
 			text-align: center;
+			margin-top: 7cm;
+			margin-left: 13cm;
 		}
 	</style>
 </head>
