@@ -27,3 +27,39 @@
 	</form>
 </body>
 </html>
+//JS here:
+/* function plusFuntion(){
+	var num1 = document.forms["form1"]["num1"].value;
+	var num2 = document.forms["form1"]["num2"].value;
+	num1 = parseInt(num1);
+	num2 = parseInt(num2);
+	document.forms["form2"]["result"].value = num1+num2;
+	// document.getElementById('result').innerHTML = ;
+}
+function abstractFunction() {
+	var num1 = document.forms["form1"]["num1"].value;
+	var num2 = document.forms["form1"]["num2"].value;
+	num1 = parseInt(num1);
+	num2 = parseInt(num2);
+	document.forms["form2"]["result"].value = num1-num2;
+}
+function multiplyFunction() {
+	var num1 = document.forms["form1"]["num1"].value;
+	var num2 = document.forms["form1"]["num2"].value;
+	num1 = parseInt(num1);
+	num2 = parseInt(num2);
+	document.forms["form2"]["result"].value = num1*num2;
+}
+function diviseFunction() {
+	var num1 = document.forms["form1"]["num1"].value;
+	var num2 = document.forms["form1"]["num2"].value;
+	num1 = parseInt(num1);
+	num2 = parseInt(num2);
+	document.forms["form2"]["result"].value = num1/num2;
+}
+window.onload = function() {
+	document.getElementById('plus').onclick = plusFuntion;
+	document.getElementById('abstract').onclick = abstractFunction;
+	document.getElementById('multiply').onclick = multiplyFunction;
+	document.getElementById('divise').onclick = diviseFunction;
+} */
