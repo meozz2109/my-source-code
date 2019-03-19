@@ -147,8 +147,8 @@ public class AlgorithmClarificationClone{
             jcomp01 = new JLabel ("(Shortest Job First) và SSTF(Shortest Seek Time First).");
             jcomp2 = new JLabel ("- Bạn hãy chọn thuật toán mà bạn muốn tìm hiểu dưới ");
             jcomp21 = new JLabel (" đây bằng cách nhấn vào chữ bên dưới: ");
-            jcomp3 = new JButton ("OS - CPU Scheduling: SJF (Shortest Job First)");
-            jcomp4 = new JButton("OS - Disk Scheduling: SSTF (Shortest Seek Time First)");
+            jcomp3 = new JButton ("Lập lịch CPU: SJF (Shortest Job First)");
+            jcomp4 = new JButton("Lập lịch đĩa: SSTF (Shortest Seek Time First)");
 //            jcomp1 = new JLabel("+ Nhấn \"1\" để chọn thuật toán lập lịch cho CPU: SJF.");
 //            jcomp5 = new JLabel("+ Nhấn \"2\" để chọn thuật toán lập lịch cho đĩa: SSTF.");
 //            jcomp6 = new JLabel("- Bạn có thể nhấn vào chữ bên dưới để chọn thuật toán:");
