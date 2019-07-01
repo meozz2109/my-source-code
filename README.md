@@ -1,9 +1,5 @@
-## Purpose
-* Just for **fun**.
-* Keep my source code and documents more **flexible**.
 ## Overview
-* I 'll post source code - everything i 've learned about coding & source code from every IT book I've read.
-* This project consist of a kind of my college or my personal **portfolios**.
+This project consist of a sort of my personal **portfolios**.
 ## My Pygame Project
 How-to
 ---------------------------
@@ -18,7 +14,7 @@ $ git clone https://github.com/meozz2109/my-source-code.git
 
 or download as zip and extract.
 
-3. Install PyGame 1.9.x from [here](http://www.pygame.org/download.shtml) or in the root directory run
+3. Install PyGame 1.9.x from [here](http://www.pygame.org/download.shtml) or in the root directory run:
 
 ```bash
 $ pip install pygame
