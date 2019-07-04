@@ -1,6 +1,6 @@
 # Personal Portfolios
-# Pygame Project
-## How-to
+## Pygame Project
+### How-to
 
 1. Install Python 3.x (recommended) 2.x from [here](https://www.python.org/download/releases/)
 
