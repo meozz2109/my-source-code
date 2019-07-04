@@ -17,24 +17,24 @@ or download as zip and extract.
 ```bash
 $ pip install pygame
 ```
-4. Open "Superman" folder and run in command prompt or cmd:
+4. Open **Superman** folder and run in command prompt or cmd:
 
 ```bash
 $ python SuperManVersion0.py
 ```
 5. Use <kbd>&uarr;</kbd> or <kbd>&larr;</kbd> or <kbd>&rarr;</kbd> or <kbd>&darr;</kbd> key to play and <kbd>Esc</kbd> to close the game.
 
-6. Have fun!
+6. ***Have fun!***
 
 # School Portfolios
 * CurrencyConverter.
 * AlgorithmIllustration.
-## CurrencyConverter
+## Currency Converter
 * This application 've been created by using Java Swing and only pull/drop.
 * With a purpose of converting a small amount of country currency among each others.
 * For instance: Vietnam Dong (VND), United State Dollar (USD), Korean Won (KRW), Europe (EUR), Bitcoin (XBT), etc.
 [![Screen Shot](Images/CurrencyConverterScreenShot.png)](https://github.com/meozz2109/my-source-code/) 
-## AlgorithmIllustration
+## Algorithm Illustration
 * This application 've been created by using Java Swing without pulling or dropping.
 * With a purpose of figuring out 2 algorithms in terms of CPU scheduling: ``SJF`` - **Shortest Job First** and disk scheduling: ``SSTF``- **Shortest Seek Time First**.
 [![Screen Shot](Images/AlgorithmClarificationScreenShot.png)](https://github.com/meozz2109/my-source-code/)
