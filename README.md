@@ -1,4 +1,4 @@
-# Personal Portfolios
+# *Personal Portfolios*
 ## Pygame Project
 ### How-to
 
@@ -26,7 +26,7 @@ $ python SuperManVersion0.py
 
 6. ***Have fun!***
 
-# School Portfolios
+# *School Portfolios*
 * CurrencyConverter.
 * AlgorithmIllustration.
 ## Currency Converter
