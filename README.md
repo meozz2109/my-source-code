@@ -1,5 +1,5 @@
 # *Personal Portfolios*
-## Game Superman - Developed Using PyGame
+## Game Superman (Using PyGame)
 ### How-to Run & Deploy
 
 1. Install Python 3.x (recommended) 2.x from [here](https://www.python.org/download/releases/)
