@@ -27,8 +27,8 @@ $ python SuperManVersion0.py
 6. ***Have fun!***
 
 # *School Portfolios*
-* CurrencyConverter
-* AlgorithmIllustration
+* Currency Converter
+* Algorithm Illustration
 ## Currency Converter
 * This application 've been created by using Java Swing and only pull/drop.
 * With a purpose of converting a small amount of country currency among each others.
