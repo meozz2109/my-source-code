@@ -2,7 +2,7 @@
 ## Game Superman (Using PyGame)
 ### How-to Run & Deploy
 
-1. Install Python 3.x (recommended) 2.x from [here](https://www.python.org/download/releases/)
+1. Install Python 3.x (recommended) and 2.x from [here](https://www.python.org/download/releases/)
 
 2. Clone the repository:
 
@@ -25,6 +25,7 @@ $ python SuperManVersion0.py
 5. Use <kbd>&uarr;</kbd> or <kbd>&larr;</kbd> or <kbd>&rarr;</kbd> or <kbd>&darr;</kbd> key to play and <kbd>Esc</kbd> to close the game.
 
 6. ***Have fun!***
+
 
 # *School Portfolios*
 * Currency Converter
