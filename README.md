@@ -1,5 +1,9 @@
 # *Personal Portfolios*
 ## Game Superman (Using PyGame)
+<p align="center">
+  <img height="250" src="https://www.filesilo.co.uk/wp-content/uploads/2014/10/pygame.jpg" >
+</p>
+
 ### How-to Run & Deploy
 
 1. Install Python 3.x (recommended) and 2.x from [here](https://www.python.org/downloads/)
