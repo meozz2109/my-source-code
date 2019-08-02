@@ -2,7 +2,7 @@
 ## Game Superman (Using PyGame)
 ### How-to Run & Deploy
 
-1. Install Python 3.x (recommended) and 2.x from [here](https://www.python.org/download/releases/)
+1. Install Python 3.x (recommended) and 2.x from [here](https://www.python.org/downloads/)
 
 2. Clone the repository:
 
