@@ -28,7 +28,7 @@ $ python SuperManVersion0.py
 ```
 5. Use <kbd>&uarr;</kbd> or <kbd>&larr;</kbd> or <kbd>&rarr;</kbd> or <kbd>&darr;</kbd> key to play and <kbd>Esc</kbd> to close the game.
 
-6. ***Have fun!***
+6. ****Have fun!****
 
 
 # *School Portfolios*
