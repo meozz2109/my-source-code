@@ -1,5 +1,5 @@
 # Overview
-This project consist of a sort of my personal **portfolios**.
+This project consists of my personal **portfolios**.
 # Pygame Project
 ## How-to
 
