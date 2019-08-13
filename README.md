@@ -31,7 +31,7 @@ $ python SuperManVersion0.py
 6. ****Have fun!****
 
 
-# *School Portfolios*
+# *College Portfolios*
 * Currency Converter
 * Algorithm Illustration
 ## Currency Converter
