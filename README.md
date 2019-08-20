@@ -34,6 +34,9 @@ $ python SuperManVersion0.py
 # *College Portfolios*
 * Currency Converter
 * Algorithm Illustration
+* Noughts And Crosses 64 board Game With AI
+* Chess with AI 
+* Fly Bus Clone 
 ## Currency Converter
 * This application 've been created by using Java Swing and only pull/drop.
 * With a purpose of converting a small amount of country currency among each others.
