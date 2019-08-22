@@ -8,20 +8,20 @@
 
 1. Install Python 3.x (recommended) and 2.x from [here](https://www.python.org/downloads/)
 
-2. Clone the repository:
+2. Clone the repository by typing in cmd:
 
 ```bash
 $ git clone https://github.com/meozz2109/my-source-code.git
 ```
 
-or download as zip and extract.
+or download as zip and extract it.
 
 3. Install PyGame 1.9.x from [here](http://www.pygame.org/download.shtml) or in the root directory run:
 
 ```bash
 $ pip install pygame
 ```
-4. Open **Superman** folder and run in command prompt or cmd:
+4. Open **Superman** folder and run in command prompt or command line (cmd):
 
 ```bash
 $ python SuperManVersion0.py
