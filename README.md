@@ -38,7 +38,7 @@ $ python SuperManVersion0.py
 * Chess with AI 
 * Fly Bus Clone 
 ## Currency Converter
-* This application 've been created by using Java Swing and only pull/drop.
+* This application 've been created by using Java Swing (pull or drop items).
 * With a purpose of converting a small amount of country currency among each others.
 * For instance: Vietnam Dong (VND), United State Dollar (USD), Korean Won (KRW), Europe (EUR), Bitcoin (XBT), etc.
 * The following picture shows a screen of this application and how is this application look like:
