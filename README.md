@@ -21,7 +21,7 @@ or download as zip and extract it.
 ```bash
 $ pip install pygame
 ```
-4. Open **Superman** folder and run in command prompt or command line (cmd):
+4. Run game in command prompt or command line (cmd) or IDLE by typing:
 
 ```bash
 $ python SuperManVersion0.py
