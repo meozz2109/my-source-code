@@ -47,3 +47,4 @@ $ python SuperManVersion0.py
 * With a purpose of figuring out 2 algorithms in terms of CPU scheduling: ``SJF`` - **Shortest Job First** and disk scheduling: ``SSTF``- **Shortest Seek Time First**.
 * The following piture shows a beginning screen of this application:
 [![Screen Shot](Images/AlgorithmClarificationScreenShot.png)](https://github.com/meozz2109/my-source-code/)
+## Noughts and Crosses 64 Boards And Chess With AI
