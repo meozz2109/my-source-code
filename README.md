@@ -48,3 +48,8 @@ $ python SuperManVersion0.py
 * The following piture shows a beginning screen of this application:
 [![Screen Shot](Images/AlgorithmClarificationScreenShot.png)](https://github.com/meozz2109/my-source-code/)
 ## Noughts and Crosses 64 Boards And Chess With AI
+* This application 've used Minimax Algorithm.
+* Etc.
+## Restaurant Management App
+* Not Modified.
+* Etc.
