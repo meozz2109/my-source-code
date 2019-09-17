@@ -37,7 +37,7 @@ $ python SuperManVersion0.py
 * Currency Converter
 * Algorithm Illustration
 * Noughts And Crosses 64 board And Chess With AI
-* Restaurant Management App
+* Restaurant Management Application
 ## Currency Converter
 * This application 've been created by using Java Swing (pull or drop items).
 * With a purpose of converting a small amount of country currency among each others.
