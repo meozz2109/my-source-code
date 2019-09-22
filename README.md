@@ -54,5 +54,5 @@ $ python SuperManVersion0.py
 * Etc.
 ## Restaurant Management Application
 * Not Modified.
-* Using WPF and C#
+* Using WPF (Window Presentation Foundation) and C#
 * Etc.
