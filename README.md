@@ -51,6 +51,7 @@ $ python SuperManVersion0.py
 [![Screen Shot](Images/AlgorithmClarificationScreenShot.png)](https://github.com/meozz2109/my-source-code/)
 ## Noughts and Crosses 64 Boards And Chess With AI
 * This application 've used Minimax Algorithm and Alpha-Beta Pruning.
+* Not Modified.
 * Etc.
 ## Restaurant Management Application
 * Not Modified.
