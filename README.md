@@ -53,6 +53,7 @@ $ python SuperManVersion0.py
 * This application 've used Minimax Algorithm and Alpha-Beta Pruning.
 * Not Modified.
 * Etc.
+[![Screen Shot](Images/AlgorithmClarificationScreenShot.png)](https://github.com/meozz2109/my-source-code/)
 ## Restaurant Management Application
 * Not Modified.
 * Using WPF (Window Presentation Foundation) and C#
