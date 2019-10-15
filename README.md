@@ -1,5 +1,5 @@
 # *Personal Portfolios*
-## Game Superman (Using PyGame)
+## Game Superman Against Obesity (Using PyGame)
 <p align="center">
   <img height="300" src="https://www.filesilo.co.uk/wp-content/uploads/2014/10/pygame.jpg" >
 </p>
@@ -21,11 +21,13 @@ or download as zip and extract it.
 ```bash
 $ pip install pygame
 ```
+
 4. Run game in command prompt or command line (cmd) or IDLE by typing:
 
 ```bash
 $ python SuperManVersion0.py
 ```
+
 5. Use <kbd>&uarr;</kbd> or <kbd>&larr;</kbd> or <kbd>&rarr;</kbd> or <kbd>&darr;</kbd> key to play and <kbd>Esc</kbd> to close the game.
 
 6. ****Have fun!****
@@ -35,7 +37,7 @@ $ python SuperManVersion0.py
 * Currency Converter
 * Algorithm Illustration
 * Noughts And Crosses 64 board And Chess With AI
-* Restaurant Management App
+* Restaurant Management Application
 ## Currency Converter
 * This application 've been created by using Java Swing (pull or drop items).
 * With a purpose of converting a small amount of country currency among each others.
@@ -47,4 +49,12 @@ $ python SuperManVersion0.py
 * With a purpose of figuring out 2 algorithms in terms of CPU scheduling: ``SJF`` - **Shortest Job First** and disk scheduling: ``SSTF``- **Shortest Seek Time First**.
 * The following piture shows a beginning screen of this application:
 [![Screen Shot](Images/AlgorithmClarificationScreenShot.png)](https://github.com/meozz2109/my-source-code/)
-## Noughts and Crosses 64 Boards And Chess With AI
+## Noughts and Crosses 16 Boards (4x4) With AI
+* This application 've used Minimax Algorithm and Alpha-Beta Pruning.
+* Not Modified.
+* Etc.
+[![Screen Shot](Images/AlgorithmClarificationScreenShot.png)](https://github.com/meozz2109/my-source-code/)
+## Restaurant Management Application
+* Not Modified.
+* Using WPF (Window Presentation Foundation) and C#
+* Etc.
