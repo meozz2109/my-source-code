@@ -49,10 +49,39 @@ $ python SuperManVersion0.py
 * With a purpose of figuring out 2 algorithms in terms of CPU scheduling: ``SJF`` - **Shortest Job First** and disk scheduling: ``SSTF``- **Shortest Seek Time First**.
 * The following piture shows a beginning screen of this application:
 [![Screen Shot](Images/AlgorithmClarificationScreenShot.png)](https://github.com/meozz2109/my-source-code/)
-## Noughts and Crosses 16 Boards (4x4) With AI
+## Noughts and Crosses 16 Boards (4x4) With AI Using Pygame
+<p align="center">
+  <img height="300" src="https://www.filesilo.co.uk/wp-content/uploads/2014/10/pygame.jpg" >
+</p>
+### How-to Run & Deploy
+
+1. Install Python 3.x (recommended) or other version from [here](https://www.python.org/downloads/)
+
+2. Clone the repository by typing in cmd:
+
+```bash
+$ git clone https://github.com/meozz2109/my-source-code.git
+```
+
+or download as zip and extract it.
+
+3. Install PyGame 1.9.x from [here](http://www.pygame.org/download.shtml) or in the root directory run:
+
+```bash
+$ pip install pygame
+```
+
+4. Run game in command prompt or command line (cmd) or IDLE by typing:
+
+```bash
+$ python MinimaxNoughtsAndCrosses4x4.py
+```
+
+5. ****Enjoy the game!****
+
+
 * This application 've used Minimax Algorithm and Alpha-Beta Pruning.
-* Not Modified.
-* Etc.
+* This below picture is a screenshot of this game at the begining, it display with Vietnamese only:
 [![Screen Shot](Images/NoughtsAndCrosses4x4ScreenShot.png)](https://github.com/meozz2109/my-source-code/)
 ## Restaurant Management Application
 * Not Modified.
