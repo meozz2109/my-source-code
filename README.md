@@ -40,22 +40,22 @@ $ python SuperManVersion0.py
 
 
 # *College Portfolios*
-* Currency Converter
-* Algorithm Illustration
-* Noughts And Crosses 64 board And Chess With AI
-* Restaurant Management Application
-## Currency Converter
+* 1.Currency Converter
+* 2.Algorithm Illustration
+* 3.Noughts And Crosses 64 board And Chess With AI
+* 4.Restaurant Management Application
+## 1.Currency Converter
 * This application 've been created by using Java Swing (pull or drop items).
 * With a purpose of converting a small amount of country currency among each others.
 * For instance: Vietnam Dong (VND), United State Dollar (USD), Korean Won (KRW), Europe (EUR), Bitcoin (XBT), etc.
 * The following picture shows a screen of this application and how is this application look like:
 [![Screen Shot](Images/CurrencyConverterScreenShot.png)](https://github.com/meozz2109/my-source-code/) 
-## Algorithm Illustration
+## 2.Algorithm Illustration
 * This application 've been created by using Java Swing without pulling or dropping.
 * With a purpose of figuring out 2 algorithms in terms of CPU scheduling: ``SJF`` - **Shortest Job First** and disk scheduling: ``SSTF``- **Shortest Seek Time First**.
 * The following piture shows a beginning screen of this application:
 [![Screen Shot](Images/AlgorithmClarificationScreenShot.png)](https://github.com/meozz2109/my-source-code/)
-## Noughts and Crosses 16 Boards (4x4) With AI Using Pygame
+## 3.Noughts and Crosses 16 Boards (4x4) With AI Using Pygame
 <p align="center">
   <img height="300" src="https://www.filesilo.co.uk/wp-content/uploads/2014/10/pygame.jpg" >
 </p>
@@ -96,7 +96,7 @@ $ python MinimaxNoughtsAndCrosses4x4.py
 * This application 've used Minimax Algorithm and Alpha-Beta Pruning.
 * This below picture is a screenshot of this game at the begining, it display with Vietnamese only:
 [![Screen Shot](Images/NoughtsAndCrosses4x4ScreenShot.png)](https://github.com/meozz2109/my-source-code/)
-## Restaurant Management Application
+## 4.Restaurant Management Application
 * Not Modified.
 * Using WPF (Window Presentation Foundation) and C#
 * Etc.
