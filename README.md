@@ -22,15 +22,21 @@ or download as zip and extract it.
 $ pip install pygame
 ```
 
-4. Run game in command prompt or command line (cmd) or IDLE by typing:
+4. Go into Pygame-Superman folder by typing:
+
+```bash
+$ cd Pygame-Superman/
+```
+
+5. Run game in command prompt or command line (cmd) or IDLE by typing:
 
 ```bash
 $ python SuperManVersion0.py
 ```
 
-5. Use <kbd>&uarr;</kbd> or <kbd>&larr;</kbd> or <kbd>&rarr;</kbd> or <kbd>&darr;</kbd> key to play and <kbd>Esc</kbd> to close the game.
+6. Use <kbd>&uarr;</kbd> or <kbd>&larr;</kbd> or <kbd>&rarr;</kbd> or <kbd>&darr;</kbd> key to play and <kbd>Esc</kbd> to close the game.
 
-6. ****Have fun!****
+7. ****Have fun!****
 
 
 # *College Portfolios*
@@ -72,13 +78,19 @@ or download as zip and extract it.
 $ pip install pygame
 ```
 
-4. Run game in command prompt or command line (cmd) or IDLE by typing:
+4. Go into NoughtsAndCrosses4x4 folder by typing:
+
+```bash
+$ cd NoughtsAndCrosses4x4/
+```
+
+5. Run game in command prompt or command line (cmd) or IDLE by typing:
 
 ```bash
 $ python MinimaxNoughtsAndCrosses4x4.py
 ```
 
-5. ****Enjoy the game!****
+6. ****Enjoy the game!****
 
 
 * This application 've used Minimax Algorithm and Alpha-Beta Pruning.
