@@ -47,11 +47,13 @@ $ python SuperManVersion0.py
 ## 1.Currency Converter
 * This application 've been created by using Java Swing (pull or drop items).
 * With a purpose of converting a small amount of country currency among each others.
+* This application display with Vietnamese only.
 * For instance: Vietnam Dong (VND), United State Dollar (USD), Korean Won (KRW), Europe (EUR), Bitcoin (XBT), etc.
 * The following picture shows a screen of this application and how is this application look like:
 [![Screen Shot](Images/CurrencyConverterScreenShot.png)](https://github.com/meozz2109/my-source-code/) 
 ## 2.Algorithm Illustration
 * This application 've been created by using Java Swing without pulling or dropping.
+* This application display with Vietnamese only.
 * With a purpose of figuring out 2 algorithms in terms of CPU scheduling: ``SJF`` - **Shortest Job First** and disk scheduling: ``SSTF``- **Shortest Seek Time First**.
 * The following piture shows a beginning screen of this application:
 [![Screen Shot](Images/AlgorithmClarificationScreenShot.png)](https://github.com/meozz2109/my-source-code/)
