@@ -100,5 +100,5 @@ $ python MinimaxNoughtsAndCrosses4x4.py
 [![Screen Shot](Images/NoughtsAndCrosses4x4ScreenShot.png)](https://github.com/meozz2109/my-source-code/)
 ## 4.Restaurant Management Application
 * Not Modified.
-* Using C# and WPF (Window Presentation Foundation).
+* Using C# and WPF (Window Presentation Foundation) Framework.
 * Etc.
