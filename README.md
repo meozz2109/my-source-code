@@ -6,7 +6,7 @@
 
 ### How-to Run & Deploy
 
-1. Install Python 3.x (recommended) or other version from [here](https://www.python.org/downloads/)
+1. Install Python 3.x (recommended) or other version from [here](https://www.python.org/downloads/).
 
 2. Clone the repository by typing in cmd:
 
@@ -100,5 +100,5 @@ $ python MinimaxNoughtsAndCrosses4x4.py
 [![Screen Shot](Images/NoughtsAndCrosses4x4ScreenShot.png)](https://github.com/meozz2109/my-source-code/)
 ## 4.Restaurant Management Application
 * Not Modified.
-* Using WPF (Window Presentation Foundation) and C#
+* Using C# and WPF (Window Presentation Foundation).
 * Etc.
