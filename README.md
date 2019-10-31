@@ -37,7 +37,7 @@ $ python SuperManVersion0.py
 6. Use <kbd>&uarr;</kbd> or <kbd>&larr;</kbd> or <kbd>&rarr;</kbd> or <kbd>&darr;</kbd> key to play and <kbd>Esc</kbd> to close the game.
 
 7. The following picture shows the first UI of the this game:
-[![Screen Shot](Images/SupermanAgainstObesityGameScreenShot.png)](https://github.com/meozz2109/my-source-code/)
+[![Screen Shot](Images/SuperManAgainstObesityGameScreenShot.png)](https://github.com/meozz2109/my-source-code/)
 
 8. ****Have fun!****
 
