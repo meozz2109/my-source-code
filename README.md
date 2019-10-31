@@ -36,7 +36,9 @@ $ python SuperManVersion0.py
 
 6. Use <kbd>&uarr;</kbd> or <kbd>&larr;</kbd> or <kbd>&rarr;</kbd> or <kbd>&darr;</kbd> key to play and <kbd>Esc</kbd> to close the game.
 
-7. ****Have fun!****
+7. The following picture shows the first UI of the this game:
+
+8. ****Have fun!****
 
 
 # *College Portfolios*
@@ -47,13 +49,13 @@ $ python SuperManVersion0.py
 ## 1.Currency Converter
 * This application 've been created by using Java Swing (pull or drop items).
 * With a purpose of converting a small amount of country currency among each others.
-* This application display with Vietnamese only.
+* Language of this application is applied for Vietnamese only.
 * For instance: Vietnam Dong (VND), United State Dollar (USD), Korean Won (KRW), Europe (EUR), Bitcoin (XBT), etc.
 * The following picture shows a screen of this application and how is this application look like:
 [![Screen Shot](Images/CurrencyConverterScreenShot.png)](https://github.com/meozz2109/my-source-code/) 
 ## 2.Algorithm Illustration
 * This application 've been created by using Java Swing without pulling or dropping.
-* This application display with Vietnamese only.
+* Language of this application is applied for Vietnamese only.
 * With a purpose of figuring out 2 algorithms in terms of CPU scheduling: ``SJF`` - **Shortest Job First** and disk scheduling: ``SSTF``- **Shortest Seek Time First**.
 * The following piture shows a beginning screen of this application:
 [![Screen Shot](Images/AlgorithmClarificationScreenShot.png)](https://github.com/meozz2109/my-source-code/)
@@ -96,7 +98,7 @@ $ python MinimaxNoughtsAndCrosses4x4.py
 
 
 * This application 've used Minimax Algorithm and Alpha-Beta Pruning.
-* This below picture is a screenshot of this game at the begining, it display with Vietnamese only:
+* This below picture is a screenshot of this game at the begining, and the language of this game is Vietnamese only:
 [![Screen Shot](Images/NoughtsAndCrosses4x4ScreenShot.png)](https://github.com/meozz2109/my-source-code/)
 ## 4.Restaurant Management Application
 * Not Modified.
