@@ -102,6 +102,7 @@ $ python MinimaxNoughtsAndCrosses4x4.py
 * This below picture is a screenshot of this game at the begining, and the language of this game is Vietnamese only:
 [![Screen Shot](Images/NoughtsAndCrosses4x4ScreenShot.png)](https://github.com/meozz2109/my-source-code/)
 * Another image show main screen of the application: 
+[![Screen Shot](Images/NoughtsAndCrosses4x4InGameScreenShot.png)](https://github.com/meozz2109/my-source-code/)
 
 ## 4.Restaurant Management Application
 * Not Modified.
