@@ -37,6 +37,7 @@ $ python SuperManVersion0.py
 6. Use <kbd>&uarr;</kbd> or <kbd>&larr;</kbd> or <kbd>&rarr;</kbd> or <kbd>&darr;</kbd> key to play and <kbd>Esc</kbd> to close the game.
 
 7. The following picture shows the first UI of the this game:
+[![Screen Shot](Images/SuperManAgainstObesityGameScreenShot.png)](https://github.com/meozz2109/my-source-code/)
 
 8. ****Have fun!****
 
@@ -100,6 +101,8 @@ $ python MinimaxNoughtsAndCrosses4x4.py
 * This application 've used Minimax Algorithm and Alpha-Beta Pruning.
 * This below picture is a screenshot of this game at the begining, and the language of this game is Vietnamese only:
 [![Screen Shot](Images/NoughtsAndCrosses4x4ScreenShot.png)](https://github.com/meozz2109/my-source-code/)
+* Another image show main screen of the application: 
+
 ## 4.Restaurant Management Application
 * Not Modified.
 * Using C# and WPF (Window Presentation Foundation) Framework.
