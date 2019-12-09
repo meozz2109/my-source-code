@@ -1,0 +1,848 @@
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\RestaurantManagement0.exe.config
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\RestaurantManagement0.exe
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\RestaurantManagement0.pdb
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\MainWindow.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\App.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0_MarkupCompile.cache
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0_MarkupCompile.lref
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\App.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\MainWindow.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.g.resources
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.Properties.Resources.resources
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.csproj.GenerateResource.cache
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.exe
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.pdb
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Manager.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\StockManager.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Manager.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\StockManager.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Cashier.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\ForgetPass.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Cashier.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\ForgetPass.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ResManagement_log.ldf
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0_Content.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\LogIn.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\LogIn.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.csprojAssemblyReference.cache
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\TestedWindow1.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\TestedWindow2.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\TestedWindow1.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\TestedWindow2.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\MaterialDesignColors.dll
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\MaterialDesignColors.pdb
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.csproj.CopyComplete
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\OOP_Exercise.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\OOP_Exercise.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\UCDemo.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\WindowDemo0.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\UCDemo.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\WindowDemo0.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInAMD.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeAMD.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodAMD.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptAMD.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailAMD.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportAMD.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialAMD.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptAMD.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailAMD.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierAMD.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInAMD.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeAMD.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodAMD.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptAMD.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailAMD.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportAMD.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialAMD.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptAMD.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailAMD.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierAMD.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\Report.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\Report.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInA.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInD.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInM.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeA.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeD.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeM.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodA.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodD.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodM.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptA.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptD.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailA.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailD.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailM.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptM.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportA.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportD.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportM.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialA.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialD.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialM.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptA.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptD.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailA.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailD.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailM.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptM.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReportA.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReportD.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReportM.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierA.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierD.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierM.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\FoodV.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\GoodReceiptDetailV.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\GoodReceiptV.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\InventoryReportV.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\RawMaterialV.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\ReceiptDetailV.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\ReceiptV.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\SupplierV.g.cs
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInA.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInD.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInM.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeA.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeD.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeM.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodA.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodD.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodM.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialA.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialD.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialM.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReportA.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReportD.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReportM.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierA.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierD.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierM.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\FoodV.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\GoodReceiptDetailV.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\GoodReceiptV.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\InventoryReportV.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\RawMaterialV.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\ReceiptDetailV.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\ReceiptV.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\SupplierV.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptA.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptD.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailA.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailD.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailM.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptM.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportA.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportD.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportM.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptA.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptD.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailA.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailD.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailM.baml
+E:\C Sharp Project\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptM.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\BaoCao1.rdlc
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ResManagement_log.ldf
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\RestaurantManagement0.exe.config
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\RestaurantManagement0.exe
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\RestaurantManagement0.pdb
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\MaterialDesignColors.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\EnvDTE.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\stdole.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.MSXML.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\MaterialDesignColors.pdb
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.csprojAssemblyReference.cache
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Cashier.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\ForgetPass.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\LogIn.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\MainWindow.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Manager.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInA.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInAMD.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInD.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInM.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeA.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeAMD.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeD.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeM.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodA.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodAMD.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodD.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodM.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptA.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptAMD.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptD.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailA.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailAMD.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailD.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailM.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptM.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportA.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportAMD.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportD.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportM.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialAMD.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialA.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialD.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialM.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptA.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptAMD.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptD.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailA.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailAMD.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailD.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailM.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptM.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\Report.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReportA.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReportD.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReportM.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierA.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierAMD.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierD.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierM.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\FoodV.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\GoodReceiptDetailV.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\GoodReceiptV.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\InventoryReportV.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\RawMaterialV.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\ReceiptDetailV.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\ReceiptV.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\SupplierV.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\OOP_Exercise.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\ReportViewer.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\StockManager.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\TestedWindow1.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\TestedWindow2.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\UCDemo.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\WindowDemo0.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\App.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0_Content.g.cs
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0_MarkupCompile.cache
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0_MarkupCompile.lref
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\App.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Cashier.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\ForgetPass.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\LogIn.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\MainWindow.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Manager.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInA.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInAMD.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInD.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInM.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeA.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeAMD.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeD.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeM.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodA.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodAMD.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodD.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodM.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptA.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptAMD.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptD.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailA.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailAMD.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailD.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailM.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptM.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportA.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportAMD.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportD.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportM.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialAMD.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialA.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialD.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialM.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptA.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptAMD.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptD.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailA.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailAMD.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailD.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailM.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptM.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\Report.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReportA.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReportD.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReportM.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierA.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierAMD.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierD.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierM.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\FoodV.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\GoodReceiptDetailV.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\GoodReceiptV.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\InventoryReportV.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\RawMaterialV.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\ReceiptDetailV.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\ReceiptV.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\SupplierV.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\OOP_Exercise.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\ReportViewer.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\StockManager.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\TestedWindow1.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\TestedWindow2.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\UCDemo.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\WindowDemo0.baml
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.g.resources
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.BaoCao1.resources
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.Properties.Resources.resources
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.csproj.GenerateResource.cache
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RdlCompile.cache
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RdlCompile.compiled
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.csproj.CopyComplete
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.exe
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.pdb
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.BaoCao2.resources
+D:\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.BaoCao3.resources
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\BaoCao1.rdlc
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\RestaurantManagement0.exe.config
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\RestaurantManagement0.exe
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\RestaurantManagement0.pdb
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\MaterialDesignColors.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\EnvDTE.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\stdole.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.csprojAssemblyReference.cache
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Cashier.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\ForgetPass.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\LogIn.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\MainWindow.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Manager.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInA.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInAMD.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInD.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInM.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeA.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeAMD.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeD.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeM.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodA.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodAMD.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodD.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodM.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptA.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptAMD.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptD.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailA.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailAMD.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailD.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailM.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptM.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportA.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportAMD.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportD.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportM.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialAMD.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialA.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialD.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialM.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptA.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptAMD.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptD.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailA.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailAMD.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailD.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailM.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptM.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\Report.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReportA.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReportD.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReportM.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierA.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierAMD.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierD.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierM.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\FoodV.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\GoodReceiptDetailV.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\GoodReceiptV.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\InventoryReportV.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\RawMaterialV.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\ReceiptDetailV.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\ReceiptV.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\SupplierV.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\OOP_Exercise.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\ReportViewer.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\StockManager.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\TestedWindow1.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\TestedWindow2.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\UCDemo.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\WindowDemo0.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\App.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0_Content.g.cs
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0_MarkupCompile.cache
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0_MarkupCompile.lref
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\App.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Cashier.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\ForgetPass.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\LogIn.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\MainWindow.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Manager.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInA.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInAMD.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInD.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInM.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeA.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeAMD.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeD.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeM.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodA.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodAMD.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodD.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodM.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptA.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptAMD.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptD.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailA.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailAMD.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailD.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailM.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptM.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportA.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportAMD.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportD.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportM.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialAMD.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialA.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialD.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialM.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptA.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptAMD.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptD.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailA.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailAMD.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailD.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailM.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptM.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\Report.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReportA.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReportD.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReportM.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierA.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierAMD.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierD.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierM.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\FoodV.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\GoodReceiptDetailV.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\GoodReceiptV.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\InventoryReportV.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\RawMaterialV.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\ReceiptDetailV.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\ReceiptV.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\SupplierV.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\OOP_Exercise.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\ReportViewer.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\StockManager.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\TestedWindow1.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\TestedWindow2.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\UCDemo.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\WindowDemo0.baml
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.g.resources
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.BaoCao2.resources
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.BaoCao3.resources
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.Properties.Resources.resources
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.csproj.GenerateResource.cache
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.csproj.CopyComplete
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.exe
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.pdb
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.Report.resources
+C:\Users\Minh\Downloads\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ResManagementNum0_log.ldf
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\BaoCao1.rdlc
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ResManagementNum0_log.ldf
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\RestaurantManagement0.exe.config
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\RestaurantManagement0.exe
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\RestaurantManagement0.pdb
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\MaterialDesignColors.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\EnvDTE.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\stdole.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\Microsoft.MSXML.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\MaterialDesignColors.pdb
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.csprojAssemblyReference.cache
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Cashier.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\ForgetPass.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\LogIn.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\MainWindow.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Manager.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInA.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInAMD.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInD.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInM.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeA.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeAMD.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeD.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeM.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodA.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodAMD.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodD.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodM.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptA.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptAMD.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptD.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailA.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailAMD.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailD.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailM.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptM.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportA.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportAMD.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportD.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportM.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialAMD.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialA.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialD.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialM.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptA.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptAMD.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptD.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailA.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailAMD.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailD.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailM.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptM.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\Report.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReportA.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReportD.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReportM.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierA.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierAMD.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierD.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierM.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\FoodV.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\GoodReceiptDetailV.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\GoodReceiptV.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\InventoryReportV.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\RawMaterialV.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\ReceiptDetailV.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\ReceiptV.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\SupplierV.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\OOP_Exercise.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\ReportViewer.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\StockManager.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\TestedWindow1.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\TestedWindow2.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\UCDemo.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\WindowDemo0.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\App.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0_Content.g.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0_MarkupCompile.cache
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0_MarkupCompile.lref
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\App.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Cashier.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\ForgetPass.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\LogIn.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\MainWindow.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Manager.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInA.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInAMD.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInD.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\AccountLogInM.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeA.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeAMD.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeD.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\EmployeeM.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodA.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodAMD.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodD.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\FoodM.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptA.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptAMD.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptD.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailA.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailAMD.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailD.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptDetailM.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\GoodReceiptM.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportA.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportAMD.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportD.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\InventoryReportM.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialAMD.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialA.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialD.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\RawMaterialM.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptA.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptAMD.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptD.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailA.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailAMD.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailD.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptDetailM.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReceiptM.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\Report.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReportA.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReportD.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\ReportM.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierA.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierAMD.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierD.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\AMDs\SupplierM.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\FoodV.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\GoodReceiptDetailV.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\GoodReceiptV.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\InventoryReportV.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\RawMaterialV.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\ReceiptDetailV.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\ReceiptV.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\Models\Views\SupplierV.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\OOP_Exercise.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\ReportViewer.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\StockManager.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\TestedWindow1.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\TestedWindow2.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\UCDemo.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\WindowDemo0.baml
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.g.resources
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.Report.resources
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.BaoCao2.resources
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.BaoCao3.resources
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.Properties.Resources.resources
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.csproj.GenerateResource.cache
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.csproj.CopyComplete
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.exe
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\RestaurantManagement0.pdb

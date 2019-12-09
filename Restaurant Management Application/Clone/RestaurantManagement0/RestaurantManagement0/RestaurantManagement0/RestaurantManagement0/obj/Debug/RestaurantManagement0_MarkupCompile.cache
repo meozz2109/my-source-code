@@ -1,0 +1,20 @@
+﻿RestaurantManagement0
+
+
+winexe
+C#
+.cs
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\obj\Debug\
+RestaurantManagement0
+none
+false
+DEBUG;TRACE
+E:\C Sharp Project\Clone\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\RestaurantManagement0\App.xaml
+642054985408
+6-1098871784
+791050285102
+27-170209882
+Cashier.xaml;ForgetPass.xaml;LogIn.xaml;MainWindow.xaml;Manager.xaml;Models\AMDs\AccountLogInA.xaml;Models\AMDs\AccountLogInAMD.xaml;Models\AMDs\AccountLogInD.xaml;Models\AMDs\AccountLogInM.xaml;Models\AMDs\EmployeeA.xaml;Models\AMDs\EmployeeAMD.xaml;Models\AMDs\EmployeeD.xaml;Models\AMDs\EmployeeM.xaml;Models\AMDs\FoodA.xaml;Models\AMDs\FoodAMD.xaml;Models\AMDs\FoodD.xaml;Models\AMDs\FoodM.xaml;Models\AMDs\GoodReceiptA.xaml;Models\AMDs\GoodReceiptAMD.xaml;Models\AMDs\GoodReceiptD.xaml;Models\AMDs\GoodReceiptDetailA.xaml;Models\AMDs\GoodReceiptDetailAMD.xaml;Models\AMDs\GoodReceiptDetailD.xaml;Models\AMDs\GoodReceiptDetailM.xaml;Models\AMDs\GoodReceiptM.xaml;Models\AMDs\InventoryReportA.xaml;Models\AMDs\InventoryReportAMD.xaml;Models\AMDs\InventoryReportD.xaml;Models\AMDs\InventoryReportM.xaml;Models\AMDs\RawMaterialAMD.xaml;Models\AMDs\RawMaterialA.xaml;Models\AMDs\RawMaterialD.xaml;Models\AMDs\RawMaterialM.xaml;Models\AMDs\ReceiptA.xaml;Models\AMDs\ReceiptAMD.xaml;Models\AMDs\ReceiptD.xaml;Models\AMDs\ReceiptDetailA.xaml;Models\AMDs\ReceiptDetailAMD.xaml;Models\AMDs\ReceiptDetailD.xaml;Models\AMDs\ReceiptDetailM.xaml;Models\AMDs\ReceiptM.xaml;Models\AMDs\Report.xaml;Models\AMDs\ReportA.xaml;Models\AMDs\ReportD.xaml;Models\AMDs\ReportM.xaml;Models\AMDs\SupplierA.xaml;Models\AMDs\SupplierAMD.xaml;Models\AMDs\SupplierD.xaml;Models\AMDs\SupplierM.xaml;Models\Views\FoodV.xaml;Models\Views\GoodReceiptDetailV.xaml;Models\Views\GoodReceiptV.xaml;Models\Views\InventoryReportV.xaml;Models\Views\RawMaterialV.xaml;Models\Views\ReceiptDetailV.xaml;Models\Views\ReceiptV.xaml;Models\Views\SupplierV.xaml;OOP_Exercise.xaml;ReportViewer.xaml;StockManager.xaml;TestedWindow1.xaml;TestedWindow2.xaml;UCDemo.xaml;WindowDemo0.xaml;
+
+False
+

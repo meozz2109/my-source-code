@@ -1,0 +1,790 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5FDA923D-DAC8-43FD-AE21-14A177E67485}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>RestaurantManagement0</RootNamespace>
+    <AssemblyName>RestaurantManagement0</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MaterialDesignColors, Version=1.2.0.325, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialDesignColors.1.2.0\lib\net45\MaterialDesignColors.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialDesignThemes.Wpf, Version=2.6.0.325, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialDesignThemes.2.6.0\lib\net45\MaterialDesignThemes.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1400.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1400.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebDesign, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1400.0\lib\net40\Microsoft.ReportViewer.WebDesign.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1400.0\lib\net40\Microsoft.ReportViewer.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1400.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="BaoCao1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaoCao1.Designer.cs">
+      <DependentUpon>BaoCao1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaoCao2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaoCao2.Designer.cs">
+      <DependentUpon>BaoCao2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaoCao3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaoCao3.Designer.cs">
+      <DependentUpon>BaoCao3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cashier.xaml.cs">
+      <DependentUpon>Cashier.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Class\Functions.cs" />
+    <Compile Include="DataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ForgetPass.xaml.cs">
+      <DependentUpon>ForgetPass.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn.xaml.cs">
+      <DependentUpon>LogIn.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\AccountLogInA.xaml.cs">
+      <DependentUpon>AccountLogInA.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\AccountLogInAMD.xaml.cs">
+      <DependentUpon>AccountLogInAMD.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\AccountLogInD.xaml.cs">
+      <DependentUpon>AccountLogInD.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\AccountLogInM.xaml.cs">
+      <DependentUpon>AccountLogInM.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\EmployeeA.xaml.cs">
+      <DependentUpon>EmployeeA.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\EmployeeAMD.xaml.cs">
+      <DependentUpon>EmployeeAMD.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\EmployeeD.xaml.cs">
+      <DependentUpon>EmployeeD.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\EmployeeM.xaml.cs">
+      <DependentUpon>EmployeeM.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\FoodA.xaml.cs">
+      <DependentUpon>FoodA.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\FoodAMD.xaml.cs">
+      <DependentUpon>FoodAMD.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\FoodD.xaml.cs">
+      <DependentUpon>FoodD.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\FoodM.xaml.cs">
+      <DependentUpon>FoodM.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\GoodReceiptA.xaml.cs">
+      <DependentUpon>GoodReceiptA.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\GoodReceiptAMD.xaml.cs">
+      <DependentUpon>GoodReceiptAMD.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\GoodReceiptD.xaml.cs">
+      <DependentUpon>GoodReceiptD.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\GoodReceiptDetailA.xaml.cs">
+      <DependentUpon>GoodReceiptDetailA.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\GoodReceiptDetailAMD.xaml.cs">
+      <DependentUpon>GoodReceiptDetailAMD.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\GoodReceiptDetailD.xaml.cs">
+      <DependentUpon>GoodReceiptDetailD.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\GoodReceiptDetailM.xaml.cs">
+      <DependentUpon>GoodReceiptDetailM.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\GoodReceiptM.xaml.cs">
+      <DependentUpon>GoodReceiptM.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\InventoryReportA.xaml.cs">
+      <DependentUpon>InventoryReportA.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\InventoryReportAMD.xaml.cs">
+      <DependentUpon>InventoryReportAMD.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\InventoryReportD.xaml.cs">
+      <DependentUpon>InventoryReportD.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\InventoryReportM.xaml.cs">
+      <DependentUpon>InventoryReportM.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\RawMaterialAMD.xaml.cs">
+      <DependentUpon>RawMaterialAMD.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\RawMaterialA.xaml.cs">
+      <DependentUpon>RawMaterialA.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\RawMaterialD.xaml.cs">
+      <DependentUpon>RawMaterialD.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\RawMaterialM.xaml.cs">
+      <DependentUpon>RawMaterialM.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\ReceiptA.xaml.cs">
+      <DependentUpon>ReceiptA.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\ReceiptAMD.xaml.cs">
+      <DependentUpon>ReceiptAMD.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\ReceiptD.xaml.cs">
+      <DependentUpon>ReceiptD.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\ReceiptDetailA.xaml.cs">
+      <DependentUpon>ReceiptDetailA.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\ReceiptDetailAMD.xaml.cs">
+      <DependentUpon>ReceiptDetailAMD.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\ReceiptDetailD.xaml.cs">
+      <DependentUpon>ReceiptDetailD.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\ReceiptDetailM.xaml.cs">
+      <DependentUpon>ReceiptDetailM.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\ReceiptM.xaml.cs">
+      <DependentUpon>ReceiptM.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\Report.xaml.cs">
+      <DependentUpon>Report.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\ReportA.xaml.cs">
+      <DependentUpon>ReportA.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\ReportD.xaml.cs">
+      <DependentUpon>ReportD.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\ReportM.xaml.cs">
+      <DependentUpon>ReportM.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\SupplierA.xaml.cs">
+      <DependentUpon>SupplierA.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\SupplierAMD.xaml.cs">
+      <DependentUpon>SupplierAMD.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\SupplierD.xaml.cs">
+      <DependentUpon>SupplierD.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AMDs\SupplierM.xaml.cs">
+      <DependentUpon>SupplierM.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Views\FoodV.xaml.cs">
+      <DependentUpon>FoodV.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Views\GoodReceiptDetailV.xaml.cs">
+      <DependentUpon>GoodReceiptDetailV.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Views\GoodReceiptV.xaml.cs">
+      <DependentUpon>GoodReceiptV.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Views\InventoryReportV.xaml.cs">
+      <DependentUpon>InventoryReportV.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Views\RawMaterialV.xaml.cs">
+      <DependentUpon>RawMaterialV.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Views\ReceiptDetailV.xaml.cs">
+      <DependentUpon>ReceiptDetailV.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Views\ReceiptV.xaml.cs">
+      <DependentUpon>ReceiptV.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Views\SupplierV.xaml.cs">
+      <DependentUpon>SupplierV.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="OOP_Exercise.xaml.cs">
+      <DependentUpon>OOP_Exercise.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ReportViewer.xaml.cs">
+      <DependentUpon>ReportViewer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ResManagementDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ResManagementDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ResManagementDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ResManagementDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="StockManager.xaml.cs">
+      <DependentUpon>StockManager.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TestedWindow1.xaml.cs">
+      <DependentUpon>TestedWindow1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TestedWindow2.xaml.cs">
+      <DependentUpon>TestedWindow2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UCDemo.xaml.cs">
+      <DependentUpon>UCDemo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WindowDemo0.xaml.cs">
+      <DependentUpon>WindowDemo0.xaml</DependentUpon>
+    </Compile>
+    <Page Include="Cashier.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ForgetPass.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="LogIn.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Manager.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\AccountLogInA.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\AccountLogInAMD.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\AccountLogInD.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\AccountLogInM.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\EmployeeA.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\EmployeeAMD.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\EmployeeD.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\EmployeeM.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\FoodA.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\FoodAMD.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\FoodD.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\FoodM.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\GoodReceiptA.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\GoodReceiptAMD.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\GoodReceiptD.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\GoodReceiptDetailA.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\GoodReceiptDetailAMD.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\GoodReceiptDetailD.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\GoodReceiptDetailM.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\GoodReceiptM.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\InventoryReportA.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\InventoryReportAMD.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\InventoryReportD.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\InventoryReportM.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\RawMaterialAMD.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\RawMaterialA.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\RawMaterialD.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\RawMaterialM.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\ReceiptA.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\ReceiptAMD.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\ReceiptD.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\ReceiptDetailA.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\ReceiptDetailAMD.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\ReceiptDetailD.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\ReceiptDetailM.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\ReceiptM.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\Report.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\ReportA.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\ReportD.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\ReportM.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\SupplierA.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\SupplierAMD.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\SupplierD.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\AMDs\SupplierM.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\Views\FoodV.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\Views\GoodReceiptDetailV.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\Views\GoodReceiptV.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\Views\InventoryReportV.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\Views\RawMaterialV.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\Views\ReceiptDetailV.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\Views\ReceiptV.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Models\Views\SupplierV.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="OOP_Exercise.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ReportViewer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StockManager.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TestedWindow1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TestedWindow2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UCDemo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WindowDemo0.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Manager.xaml.cs">
+      <DependentUpon>Manager.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="BaoCao1.rdlc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaoCao1.resx">
+      <DependentUpon>BaoCao1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaoCao2.rdlc" />
+    <EmbeddedResource Include="BaoCao2.resx">
+      <DependentUpon>BaoCao2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaoCao3.rdlc" />
+    <EmbeddedResource Include="BaoCao3.resx">
+      <DependentUpon>BaoCao3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="DataSet3.xsc">
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet3.xss">
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="ResManagementDataSet.xsc">
+      <DependentUpon>ResManagementDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ResManagementDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ResManagementDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ResManagementDataSet.xss">
+      <DependentUpon>ResManagementDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ResManagementDataSet2.xsc">
+      <DependentUpon>ResManagementDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="ResManagementDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ResManagementDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ResManagementDataSet2.xss">
+      <DependentUpon>ResManagementDataSet2.xsd</DependentUpon>
+    </None>
+    <Resource Include="Fonts\Montserrat-Regular.ttf" />
+    <Resource Include="Fonts\A Calling Font_D by 7NTypes.otf" />
+    <Resource Include="Fonts\Allura-Regular.otf" />
+    <Resource Include="Fonts\Baby Superhero.ttf" />
+    <Resource Include="Fonts\blackjack.otf" />
+    <Resource Include="Fonts\Demo_ConeriaScript.ttf" />
+    <Resource Include="Fonts\FFF_Tusj.ttf" />
+    <Resource Include="Fonts\Signature of the Ancient.ttf" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Images\" />
+    <Folder Include="Models\WAPs\" />
+    <Folder Include="Styles\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets\res.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="res.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets\res0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="res0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets\res1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="res1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets\res2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="res2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <DesignData Include="ResManagementNum0.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </DesignData>
+    <Resource Include="Assets\humanLogIn.png" />
+    <Resource Include="Assets\lock.png" />
+    <Resource Include="Assets\login.png" />
+    <Resource Include="Assets\login_0.png" />
+    <Resource Include="Assets\logout.png" />
+    <Resource Include="Assets\userIcon.png" />
+    <Resource Include="Assets\logIn_1.png" />
+    <Resource Include="Assets\userIcon_0.png" />
+    <Resource Include="Assets\logOut_0.png" />
+    <Resource Include="Assets\about.png" />
+    <Resource Include="Assets\QAndA.png" />
+    <Resource Include="Assets\QAndA_0.png" />
+    <Resource Include="Assets\about_0.png" />
+    <Resource Include="Assets\about_1.png" />
+    <Resource Include="Assets\about_2.png" />
+    <Resource Include="Assets\about_3.png" />
+    <Resource Include="Assets\about_4.png" />
+    <Resource Include="Assets\emailIcon.png" />
+    <Resource Include="Assets\githubIcon.png" />
+    <Resource Include="Assets\phoneCallIcon.png" />
+    <Resource Include="Assets\emailIcon_0.png" />
+    <Resource Include="Assets\phoneCallIcon_0.png" />
+    <Resource Include="Assets\arrow-left.png" />
+    <Resource Include="Assets\arrowLeft.png" />
+    <Resource Include="Assets\drawer_0.png" />
+    <Resource Include="Assets\drawer_1.png" />
+    <Resource Include="Assets\drawer_2.png" />
+    <Resource Include="Assets\mountains.jpg" />
+    <Resource Include="Assets\accountLogIn.png" />
+    <Resource Include="Assets\employee.png" />
+    <Resource Include="Assets\supplier.png" />
+    <Resource Include="Assets\raw_ingredients.png" />
+    <Resource Include="Assets\dishes.jpg" />
+    <Resource Include="Assets\ChineseDishes.png" />
+    <Resource Include="Assets\report.png" />
+    <Resource Include="Assets\receipt.png" />
+    <Resource Include="Assets\goods_receipt.png" />
+    <Resource Include="Assets\goods_receipt_0.png" />
+    <Resource Include="Assets\inventory_report.png" />
+    <Resource Include="Assets\receipt_0.png" />
+    <Resource Include="Assets\receipt_1.png" />
+    <Resource Include="Assets\delivery_receipt.png" />
+    <Resource Include="Assets\Report Card_32px.png" />
+    <Resource Include="Assets\return.png" />
+    <Resource Include="Assets\return_0.png" />
+    <Content Include="ResManagementNum0_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>ResManagementNum0.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
