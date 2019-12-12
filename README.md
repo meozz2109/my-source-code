@@ -106,7 +106,7 @@ $ python MinimaxNoughtsAndCrosses4x4.py
 
 ## 4.Restaurant Management Application
 * This application have been created by using C# and WPF (Window Presentation Foundation) Framework.
-* This application is displayed with 2 languages: Vietnamese and English.
+* This application is displayed with Vietnamese.
 * The following picture shows the first interface (User interface) of this application:
 [![Screen Shot](Images/FirstUIRestaurantManagementApplication.png)](https://github.com/meozz2109/my-source-code/)
 * Below picture shows the Log In screen of this application:
