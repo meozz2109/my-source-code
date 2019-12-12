@@ -108,12 +108,21 @@ $ python MinimaxNoughtsAndCrosses4x4.py
 * This application have been created by using C# and WPF (Window Presentation Foundation) Framework.
 * This application is displayed with 2 languages: Vietnamese and English.
 * The following picture shows the first interface (User interface) of this application:
+[![Screen Shot](Images/FirstUIRestaurantManagementApplication.png)](https://github.com/meozz2109/my-source-code/)
 * Below picture shows the Log In screen of this application:
+[![Screen Shot](Images/LogInUIRestaurantManagementApplication.png)](https://github.com/meozz2109/my-source-code/)
 * Three actors that usually use this system are: Manager, Stock manager and Cashier.
 * The first screen of logging in with Manager's privilege:
+[![Screen Shot](Images/ManagerMainUIRestaurantManagementApplication.png)](https://github.com/meozz2109/my-source-code/)
 * The second screen with the same privilege:
-* The third screen that shows the Write Report features:
+[![Screen Shot](Images/ManagerMain1UIRestaurantManagementApplication.png)](https://github.com/meozz2109/my-source-code/)
+* The third screen with the same privilege as well:
+[![Screen Shot](Images/ManagerMain2UIRestaurantManagementApplication.png)](https://github.com/meozz2109/my-source-code/)
 * If you log in with Stock Manager's privilege, this below picture shows the first screen:
-* With the same privilege, the following picture display the second screen:
+[![Screen Shot](Images/StockManagerMainUIRestaurantManagementApplication.png)](https://github.com/meozz2109/my-source-code/)
+* With the same privilege, the following picture display the Write Report feature:
+[![Screen Shot](Images/StockManagerMain1UIRestaurantManagementApplication.png)](https://github.com/meozz2109/my-source-code/)
 * Or with Cashier's privilege, you could see the UI like this picture:
-* Etc.
+[![Screen Shot](Images/NoughtsAndCrosses4x4ScreenShot.png)](https://github.com/meozz2109/my-source-code/)
+
+### How to Run & Deploy Project:
