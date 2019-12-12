@@ -123,6 +123,6 @@ $ python MinimaxNoughtsAndCrosses4x4.py
 * With the same privilege, the following picture display the Write Report feature:
 [![Screen Shot](Images/StockManagerMain1UIRestaurantManagementApplication.png)](https://github.com/meozz2109/my-source-code/)
 * Or with Cashier's privilege, you could see the UI like this picture:
-[![Screen Shot](Images/NoughtsAndCrosses4x4ScreenShot.png)](https://github.com/meozz2109/my-source-code/)
+[![Screen Shot](Images/CashierMainUIRestaurantManagementApplication.png)](https://github.com/meozz2109/my-source-code/)
 
 ### How to Run & Deploy Project:
