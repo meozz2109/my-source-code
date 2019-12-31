@@ -126,3 +126,13 @@ $ python MinimaxNoughtsAndCrosses4x4.py
 [![Screen Shot](Images/CashierMainUIRestaurantManagementApplication.png)](https://github.com/meozz2109/my-source-code/)
 
 ### How to Run & Deploy Project:
+
+1. Go into Restaurant Management Application folder by typing:
+
+```bash
+$ cd Pygame-Superman/
+```
+
+2. Run game by double-clicking to the RestaurantManagementApplication.exe
+
+3. Have fun!
