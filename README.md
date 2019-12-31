@@ -130,7 +130,7 @@ $ python MinimaxNoughtsAndCrosses4x4.py
 1. Go into Restaurant Management Application folder by typing:
 
 ```bash
-$ cd Pygame-Superman/
+$ cd Restaurant Management Application/
 ```
 
 2. Run game by double-clicking to the RestaurantManagementApplication.exe
