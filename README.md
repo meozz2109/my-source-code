@@ -133,10 +133,10 @@ $ python MinimaxNoughtsAndCrosses4x4.py
 $ cd Restaurant Management Application/
 ```
 
-2. Run game by double-clicking to the RestaurantManagementApplication.exe
+2. Run the application by double-clicking to the RestaurantManagementApplication.exe
 
 3. Have fun!
 
-## 5.Age Prediction Through Facial Recognization Application
+## 5.Distinguish Cat & Dog Through Facial Recognization Application
 
 ## 6.Library Management Application
