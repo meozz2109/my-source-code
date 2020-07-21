@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="src" path="LibraryManagementApplication_Binh_Note/src"/>
+	<classpathentry kind="lib" path="C:/Users/Minh/Downloads/group08project-feature-generalmanagement-binhltt/group08project-feature-generalmanagement-binhltt/04-Source/File.rar/JPlanner.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Minh/Downloads/group08project-feature-generalmanagement-binhltt/group08project-feature-generalmanagement-binhltt/04-Source/File.rar/KControls.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Minh/Downloads/group08project-feature-generalmanagement-binhltt/group08project-feature-generalmanagement-binhltt/04-Source/File.rar/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="D:/JUnit/junit-4.13.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads For Free/Software Testing/Thuc Hanh-20200621T060748Z-001/Thuc Hanh/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads For Free/Software Testing/apache-jmeter-5.3/apache-jmeter-5.3/bin/ApacheJMeter.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads For Free/jexcelapi_2_6_7/jexcelapi/jxl.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads For Free/poi-bin-4.1.2-20200217/poi-4.1.2/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads For Free/poi-bin-4.1.2-20200217/poi-4.1.2/poi-excelant-4.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads For Free/poi-bin-4.1.2-20200217/poi-4.1.2/poi-examples-4.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads For Free/poi-bin-4.1.2-20200217/poi-4.1.2/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads For Free/poi-bin-4.1.2-20200217/poi-4.1.2/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads For Free/poi-bin-4.1.2-20200217/poi-4.1.2/poi-scratchpad-4.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads For Free/poi-bin-4.1.2-20200217/poi-4.1.2/lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads For Free/poi-bin-4.1.2-20200217/poi-4.1.2/ooxml-lib/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads For Free/poi-bin-4.1.2-20200217/poi-4.1.2/lib/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads For Free/poi-bin-4.1.2-20200217/poi-4.1.2/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads For Free/poi-bin-4.1.2-20200217/poi-4.1.2/lib/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads For Free/poi-bin-4.1.2-20200217/poi-4.1.2/lib/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads For Free/poi-bin-4.1.2-20200217/poi-4.1.2/lib/jaxb-impl-2.3.2.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads For Free/poi-bin-4.1.2-20200217/poi-4.1.2/lib/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads For Free/poi-bin-4.1.2-20200217/poi-4.1.2/ooxml-lib/curvesapi-1.06.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
