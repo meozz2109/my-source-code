@@ -1,0 +1,23 @@
+.list-view .list-cell:even {
+	-fx-background-color: rgb(255, 255, 171);
+}
+
+.list-view .list-cell:odd {
+	-fx-background-color: rgb(194, 217, 220);
+}
+
+.list-view .list-cell:filled:hover {
+    -fx-background-color: rgb(111,111,111);
+    -fx-text-fill: white;
+}
+.list-view .list-cell:filled:selected:focused, .list-cell:filled:selected {
+    /* 3:, 4: */
+    -fx-background-color: linear-gradient(#328BDB 0%, #207BCF 25%, #1973C9 75%, #0A65BF 100%);
+    -fx-text-fill: brown; /* 5 */
+}
+
+/*
+.list-view .list-cell {
+    -fx-control-inner-background: rgb(145, 145, 145) ;
+    -fx-control-inner-background-alt: derive(-fx-control-inner-background, 50%);
+}*/
