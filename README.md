@@ -140,6 +140,9 @@ $ cd Restaurant Management Application/
 ## 5.Distinguish Cat & Dog Through Facial Recognization Application
 
 ## 6.Library Management Application
+* This application have been created by using Java and Swing in conjunction with JavaFX Framework.
+* This application is displayed with English.
+* The following picture shows the first interface (User interface) of this application:
 
 ### How to Run & Deploy
 
