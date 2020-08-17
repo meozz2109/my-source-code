@@ -163,5 +163,14 @@ via clicking in a hyperlink, then install via viewing those Instruction.
 7. Final step - Step 7: Click to access the folder build/App Bundle/Runable/ and choose to double click the file .exe to run the program.
 	1. Whether or not during the executing, application crashes occur, then you have to access to Start, click to find bar to search "cmd" and click Enter. 
 	2. Command line window showed up, you have to copy the URL that link to file .jar and .exe,
-	3. After that, you need to figure that what drive you currently use, in case that current drive is D drive, you type in "D:", then do this command : "cd path" with path is the URL that you 've currently copy, fast command is cd + Paste.
-	4. Next, you do the command : "java -jar ldc_lms_runable.jar" to execute the application.
+	3. After that, you need to figure that what drive you currently use, in case that current drive is D drive, you type in "D:", then do this command : 
+
+	```bash
+	$ cd Path	
+	```
+	with path is the URL that you 've currently copy, fast command is cd + Paste.
+	4. Next, you do the command :  
+	```bash
+	$ java -jar ldc_lms_runable.jar	
+	```
+	to execute the application.
