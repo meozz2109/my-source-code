@@ -143,7 +143,7 @@ $ cd Restaurant Management Application/
 * This application have been created by using Java and Swing in conjunction with JavaFX Framework.
 * This application is displayed with English.
 * The following picture shows the first interface (User interface) of this application:
-
+[![Screen Shot](Images/Welcome_XDPTPM_Screen.PNG)](https://github.com/meozz2109/my-source-code/)
 ### How to Run & Deploy
 
 1. Step 1: First of all, you need to download [SQL Server version 2019](http://www.winta.com.vn/Tin-tuc/2944/-huong-dan-cai-dat-sql-server-2019.html)
