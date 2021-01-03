@@ -144,7 +144,12 @@ $ cd Restaurant Management Application/
 * This application is displayed with English.
 * The following picture shows the first interface (User interface) of this application:
 [![Screen Shot](Images/Welcome_XDPTPM_Screen.PNG)](https://github.com/meozz2109/my-source-code/)
-* Then, if we dig'in more, 
+* Then, dig'in deeper in the application, a role request dialog shows up:
+[![Screen Shot](Images/Choose_Role_XDPTPM_Screen.PNG)](https://github.com/meozz2109/my-source-code/)
+* With Reader role, the application allow user to search documents via title, name, and publish year, also monitor the manual and policy of the library:
+[![Screen Shot](Images/Reader_Search_XDPTPM_Screen.PNG)](https://github.com/meozz2109/my-source-code/)
+* When typing the information into the search field and click Search button, the application turn into:
+[![Screen Shot](Images/Document_Search_XDPTPM_Screen.PNG)](https://github.com/meozz2109/my-source-code/)
 ### How to Run & Deploy
 
 1. Step 1: First of all, you need to download [SQL Server version 2019](http://www.winta.com.vn/Tin-tuc/2944/-huong-dan-cai-dat-sql-server-2019.html)
