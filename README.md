@@ -154,7 +154,11 @@ $ cd Restaurant Management Application/
 [![Screen Shot](Images/Policy_XDPTPM_Screen.png)](https://github.com/meozz2109/my-source-code/)
 * When typing the information into the search field and click Search button, the application turn into:
 [![Screen Shot](Images/Document_Search_XDPTPM_Screen.png)](https://github.com/meozz2109/my-source-code/)
-* With Librarian role, the application allow user to log in into system with 2 distinguished account includes 
+* With Librarian & Manager role, the application allow user to log in into system with 2 distinguished account includes Librarian and Manager account:
+[![Screen Shot](Images/Log_In_XDPTPM_Screen.png)](https://github.com/meozz2109/my-source-code/)
+* In case that user log in with Manager account, user will have the biggest role in the role system of the application, which could monitor and modify everything includes: add, modify, and delete all user accounts, reader informations, document informations, etc. But smaller, user which log in with Librarian role allowed to do the statistic and report job, search for documents, manage documents informations, and sheets informations.
+* This below screen is the reader management screen unique for only Manager role:
+[![Screen Shot](Images/Reader_Manage_XDPTPM_Screen.png)](https://github.com/meozz2109/my-source-code/)
 ### How to Run & Deploy
 
 1. Step 1: First of all, you need to download [SQL Server version 2019](http://www.winta.com.vn/Tin-tuc/2944/-huong-dan-cai-dat-sql-server-2019.html)
