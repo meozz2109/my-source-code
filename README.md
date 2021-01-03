@@ -147,9 +147,14 @@ $ cd Restaurant Management Application/
 * Then, dig'in deeper in the application, a role request dialog shows up:
 [![Screen Shot](Images/Choose_Role_XDPTPM_Screen.PNG)](https://github.com/meozz2109/my-source-code/)
 * With Reader role, the application allow user to search documents via title, name, and publish year, also monitor the manual and policy of the library:
-[![Screen Shot](Images/Reader_Search_XDPTPM_Screen.PNG)](https://github.com/meozz2109/my-source-code/)
+[![Screen Shot](Images/Reader_Search_XDPTPM_Screen.png)](https://github.com/meozz2109/my-source-code/)
+* The manual of LDC library shows up when user click to Manual button:
+[![Screen Shot](Images/Manual_XDPTPM_Screen.png)](https://github.com/meozz2109/my-source-code/)
+* The policy of LDC libray as well as the manual, also shows up when user click to Policy button:
+[![Screen Shot](Images/Policy_XDPTPM_Screen.png)](https://github.com/meozz2109/my-source-code/)
 * When typing the information into the search field and click Search button, the application turn into:
-[![Screen Shot](Images/Document_Search_XDPTPM_Screen.PNG)](https://github.com/meozz2109/my-source-code/)
+[![Screen Shot](Images/Document_Search_XDPTPM_Screen.png)](https://github.com/meozz2109/my-source-code/)
+* With Librarian role, the application allow user to log in into system with 2 distinguished account includes 
 ### How to Run & Deploy
 
 1. Step 1: First of all, you need to download [SQL Server version 2019](http://www.winta.com.vn/Tin-tuc/2944/-huong-dan-cai-dat-sql-server-2019.html)
